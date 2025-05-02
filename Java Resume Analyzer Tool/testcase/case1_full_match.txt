@@ -1,5 +1,3 @@
-Resume:
-I am a highly skilled software developer with experience in building enterprise-level applications. I have worked with Java for 3 years and have experience developing RESTful services using Spring Boot. I have also worked with Docker for containerization and MySQL for database management. I have hands-on experience with Git for version control and have used AWS for cloud deployment.
+Resume: Highly skilled Java developer with experience in Spring Boot, Docker, and RESTful APIs.
 
-Job Description:
-We are looking for an experienced Java Developer with hands-on knowledge of modern development frameworks. Key skills required: Java, Spring Boot, Docker, Git, MySQL, AWS, RESTful APIs
+Job Description: We are looking for an experienced Java developer with expertise in Spring Boot, Docker, and RESTful APIs.
