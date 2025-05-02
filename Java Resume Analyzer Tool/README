@@ -15,9 +15,6 @@ ResumeAnalyzer is a simple yet powerful command-line Java application that compa
 - Data Structures (HashSet, Scanner)
 - Java CLI application development
 
-## 🛠️ Sample Skills Supported
-- Java, Spring Boot, Docker, REST APIs, MySQL, Git, AWS, Hibernate, Maven, Jenkins, Kubernetes
-
 ## 📌 How It Works
 1. User inputs their resume content (text).
 2. Inputs the job description.
@@ -26,3 +23,14 @@ ResumeAnalyzer is a simple yet powerful command-line Java application that compa
    - Match score (%)
    - Matched and missing skills
    - Suggestions for improvement
+
+-------
+Impact & Benefits
+
+Time Saving: Instantly filters strong candidates by comparing resume content to job requirements.
+
+Productivity: Reduces manual screening by providing objective match scores.
+
+Recruiter Insight: Helps prioritize resumes with high match percentages.
+
+Skill Gap Analysis: Clearly identifies missing skills for learning or improvement.
