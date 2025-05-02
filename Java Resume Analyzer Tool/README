@@ -1,0 +1,28 @@
+# ResumeAnalyzer - Java Resume Skill Matcher
+
+ResumeAnalyzer is a simple yet powerful command-line Java application that compares a user's resume with a given job description to identify matching and missing technical skills. This tool helps job seekers tailor their resumes more effectively to specific job roles, increasing their chances of passing resume screening tools or Applicant Tracking Systems (ATS).
+
+## 💡 Features
+- Extracts relevant technical skills using keyword matching.
+- Compares resume content with job description.
+- Highlights matched skills and suggests missing ones.
+- Calculates and displays a match percentage score.
+- User-friendly CLI interaction using Scanner.
+
+## 🔍 Technologies Used
+- Java (Core Java concepts)
+- Regex & String manipulation
+- Data Structures (HashSet, Scanner)
+- Java CLI application development
+
+## 🛠️ Sample Skills Supported
+- Java, Spring Boot, Docker, REST APIs, MySQL, Git, AWS, Hibernate, Maven, Jenkins, Kubernetes
+
+## 📌 How It Works
+1. User inputs their resume content (text).
+2. Inputs the job description.
+3. The app extracts keywords and compares them.
+4. Displays results including:
+   - Match score (%)
+   - Matched and missing skills
+   - Suggestions for improvement
