@@ -3,6 +3,11 @@
 This notebook demonstrates data manipulation and analysis skills using simulated healthcare data. The steps include data generation, cleaning, aggregation, and visualization, all designed to highlight Pandas and Python proficiency.
 
 Skills Demonstrated:
+
+📊 Data Analysis & Reporting
+
+Appointment Analytics: Analyzed a dataset of 3,000 appointments, identifying key metrics such as cancellation rates and revenue impact.
+
 Data Cleaning: Handling missing values, correcting data types, and ensuring data consistency.
 
 Feature Engineering: Creating new features (e.g., age groups, revenue month) for deeper analysis.
@@ -13,4 +18,9 @@ Data Aggregation: Summarizing data using groupby for key insights.
 
 Outlier Detection: Identifying and handling outliers to ensure accurate analysis.
 
-Data Visualization: Plotting trends and comparisons to communicate insights effectively.
+📈 Performance Monitoring
+Trend Analysis: Monitored and reported on revenue trends, identifying a 3.19% decrease from November 2024 to April 2025.
+
+📊 Data Visualization: Plotting trends and comparisons to communicate insights effectively.
+
+
