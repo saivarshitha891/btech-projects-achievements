@@ -1,0 +1,5 @@
+Resume: 
+Experienced Graphic Designer with expertise in Adobe Photoshop, Illustrator, Figma, and branding.
+
+Job Description: 
+Looking for a backend Java developer with skills in Java, Spring Boot, Docker, MySQL, Jenkins, and REST APIs.
