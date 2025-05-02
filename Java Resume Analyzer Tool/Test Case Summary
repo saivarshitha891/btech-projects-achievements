@@ -1,0 +1,6 @@
+| Job Role                 | Resume Match Rates | Insight                                                                       |
+| ------------------------ | ------------------ | ----------------------------------------------------------------------------- |
+| Java Developer           | 100%, 40%, 0%, 20% | Wide variance shows tool’s accuracy in identifying underqualified candidates. |
+| Senior Software Engineer | 100%               | Resume fully matches requirements.                                            |
+| Data Scientist           | 100%               | Complete alignment between resume and JD.                                     |
+| Cloud Architect          | 50%                | Tool highlights skill gaps in advanced roles.                                 |
