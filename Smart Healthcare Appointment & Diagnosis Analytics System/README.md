@@ -1,31 +1,29 @@
-**Smart Healthcare Appointment & Diagnosis Analytics System**
+readme_md = '''
+# Smart Healthcare Appointment & Diagnosis Analytics System
 
-A complete project simulating a healthcare environment to demonstrate SQL and Python data analytics skills.
+This project simulates a real-world healthcare system with appointments, diagnoses, and billing. It showcases SQL and Python skills across database design, data analysis, and visual reporting.
 
----------
+## Features
+- Relational database with normalized schema
+- Advanced SQL queries: joins, groupings, revenue analytics
+- Python data extraction and visualization using Pandas & Matplotlib
+- Sample data generation scripts
 
-**💡 Features:**
+## Skills Demonstrated
+- SQL (queries, optimization, schema design)
+- Python (data analysis, visualization)
+- Data analytics mindset
 
-End-to-end relational database for managing patients, doctors, and appointments.
+## Visual Reports
+- Appointments by specialization
+- Revenue trend analysis
 
-Advanced SQL queries for revenue tracking, patient visit frequency, and department utilization.
+## Run Instructions
+1. Run `generate_data.py` to populate the database
+2. Run `analytics.py` to generate reports
+3. Check `appointments_by_specialization.png` and `revenue_trend.png` for visuals
+'''
 
-Python scripts to generate synthetic healthcare data and analyze it with Pandas and Matplotlib.
-
-Visual reports: Appointment trends by specialization, Monthly revenue growth.
-
---------
-
-📦 **Technologies:**
-
-SQLite, Python, Pandas, Matplotlib, SQL
-
----------
-
-📈 **Skills Showcased:**
-
-Database design, query tuning, and complex joins
-
-Data extraction, aggregation, and visualization in Python
-
-Real-world simulation, analytics, and reporting
+# Save to README.md
+with open("README.md", "w") as f:
+    f.write(readme_md)
