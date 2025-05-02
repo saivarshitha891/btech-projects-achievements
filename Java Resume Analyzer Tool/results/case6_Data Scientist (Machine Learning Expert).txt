@@ -1,0 +1,16 @@
+========= Resume Analyzer - Java CLI =========
+Paste your resume content below (single line):
+Proficient in Python, TensorFlow, Scikit-learn, and PyTorch. Experience working with MySQL and MongoDB for machine learning projects.
+
+Paste the job description below (single line):
+Looking for a Data Scientist skilled in Python, TensorFlow, Scikit-learn, PyTorch, MySQL, MongoDB, and data visualization.
+
+=================== RESULTS ===================
+? Resume Skills: [Mysql]
+? Job Description Keywords: [Mysql]
+? Match Score: 100%
+? Matched Skills: [Mysql]
+? Missing Skills: []
+? Great! Your resume fully matches the job description.
+
+=== Code Execution Successful ===
