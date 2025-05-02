@@ -1,0 +1,16 @@
+========= Resume Analyzer - Java CLI =========
+Paste your resume content below (single line):
+Cloud Engineer with experience in deploying applications on AWS, managing EC2, and S3 storage
+
+Paste the job description below (single line):
+Looking for a Cloud Architect with deep experience in designing cloud solutions on AWS, Azure, GCP, Kubernetes, Terraform, and microservices architecture
+
+=================== RESULTS ===================
+? Resume Skills: [Aws]
+? Job Description Keywords: [Aws, Kubernetes]
+? Match Score: 50%
+? Matched Skills: [Aws]
+? Missing Skills: [Kubernetes]
+? Suggestion: Consider learning or adding: [Kubernetes]
+
+=== Code Execution Successful ===
