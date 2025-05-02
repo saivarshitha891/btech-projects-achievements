@@ -53,5 +53,4 @@ Welcome! This repository showcases the projects and technical skills I acquired 
 
 - LinkedIn: [your-link]
 - Email: [your-email]
-- Portfolio: [your-portfolio-link]
 
