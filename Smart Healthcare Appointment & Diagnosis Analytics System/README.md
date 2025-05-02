@@ -25,5 +25,6 @@ This project simulates a real-world healthcare system with appointments, diagnos
 '''
 
 # Save to README.md
+
 with open("README.md", "w") as f:
-    f.write(readme_md)
+f.write(readme_md)
