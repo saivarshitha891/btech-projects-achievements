@@ -1,0 +1,16 @@
+========= Resume Analyzer - Java CLI =========
+Paste your resume content below (single line):
+Experienced Graphic Designer with expertise in Adobe Photoshop, Illustrator, Figma, and branding.
+
+Paste the job description below (single line):
+Looking for a backend Java developer with skills in Java, Spring Boot, Docker, MySQL, Jenkins, and REST APIs.
+
+=================== RESULTS ===================
+? Resume Skills: []
+? Job Description Keywords: [Jenkins, Java, Rest, Docker, Rest Apis, Mysql, Spring Boot]
+? Match Score: 0%
+? Matched Skills: []
+? Missing Skills: [Jenkins, Java, Rest, Docker, Rest Apis, Mysql, Spring Boot]
+? Suggestion: Consider learning or adding: [Jenkins, Java, Rest, Docker, Rest Apis, Mysql, Spring Boot]
+
+=== Code Execution Successful ===
