@@ -1,1 +1,17 @@
-sa
+========= Resume Analyzer - Java CLI =========
+Paste your resume content below (single line):
+Java developer with experience in Spring Boot, Docker, and RESTful APIs.
+
+Paste the job description below (single line):
+Looking for skills in Java, Kubernetes, Docker, Jenkins, and MySQL.
+
+
+=================== RESULTS ===================
+? Resume Skills: [Java, Rest, Docker, Spring Boot]
+? Job Description Keywords: [Jenkins, Java, Docker, Mysql, Kubernetes]
+? Match Score: 40%
+? Matched Skills: [Java, Docker]
+? Missing Skills: [Jenkins, Mysql, Kubernetes]
+? Suggestion: Consider learning or adding: [Jenkins, Mysql, Kubernetes]
+
+=== Code Execution Successful ===
