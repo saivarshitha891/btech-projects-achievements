@@ -1,0 +1,14 @@
+========= Resume Analyzer - Java CLI =========
+Paste your resume content below (single line):
+Java developer familiar with microservices architecture, containerization, CI/CD pipelines, and cloud deployments.
+
+Paste the job description below (single line):
+Hiring for a Java backend engineer with skills in Java, Docker, Jenkins, Kubernetes, and AWS.
+
+=================== RESULTS ===================
+? Resume Skills: [Java]
+? Job Description Keywords: [Jenkins, Java, Docker, Aws, Kubernetes]
+? Match Score: 20%
+? Matched Skills: [Java]
+? Missing Skills: [Jenkins, Docker, Aws, Kubernetes]
+? Suggestion: Consider learning or adding: [Jenkins, Docker, Aws, Kubernetes]
