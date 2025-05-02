@@ -1,0 +1,16 @@
+========= Resume Analyzer - Java CLI =========
+Paste your resume content below (single line):
+Experienced Senior Software Engineer with expertise in Java, Spring Boot, Docker, Kubernetes, MySQL, React, and AWS
+
+Paste the job description below (single line):
+Looking for a Senior Software Engineer proficient in Java, Spring Boot, Docker, Kubernetes, MySQL, React, AWS, and Agile methodologies
+
+=================== RESULTS ===================
+? Resume Skills: [Java, Docker, Mysql, Spring Boot, Aws, Kubernetes]
+? Job Description Keywords: [Java, Docker, Mysql, Spring Boot, Aws, Kubernetes]
+? Match Score: 100%
+? Matched Skills: [Java, Docker, Mysql, Spring Boot, Aws, Kubernetes]
+? Missing Skills: []
+? Great! Your resume fully matches the job description.
+
+=== Code Execution Successful ===
