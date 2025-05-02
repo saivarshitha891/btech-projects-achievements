@@ -1,4 +1,3 @@
-readme_md = '''
 # Smart Healthcare Appointment & Diagnosis Analytics System
 
 This notebook demonstrates data manipulation and analysis skills using simulated healthcare data. The steps include data generation, cleaning, aggregation, and visualization, all designed to highlight Pandas and Python proficiency.
