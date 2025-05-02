@@ -1,7 +1,16 @@
+========= Resume Analyzer - Java CLI =========
+Paste your resume content below (single line):
+Highly skilled Java developer with experience in Spring Boot, Docker, and RESTful APIs
+
+Paste the job description below (single line):
+We are looking for an experienced Java developer with expertise in Spring Boot, Docker, and RESTful APIs
+
 =================== RESULTS ===================
-? Resume Skills: [Java, Rest, Git, Docker, Restful Services, Mysql, Spring Boot, Aws]
-? Job Description Keywords: [Java, Rest, Git, Docker, Mysql, Spring Boot, Aws]
+? Resume Skills: [Java, Rest, Docker, Spring Boot]
+? Job Description Keywords: [Java, Rest, Docker, Spring Boot]
 ? Match Score: 100%
-? Matched Skills: [Java, Rest, Git, Docker, Mysql, Spring Boot, Aws]
+? Matched Skills: [Java, Rest, Docker, Spring Boot]
 ? Missing Skills: []
 ? Great! Your resume fully matches the job description.
+
+=== Code Execution Successful ===
