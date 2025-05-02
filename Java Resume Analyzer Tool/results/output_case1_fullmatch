@@ -1,9 +1,9 @@
 ========= Resume Analyzer - Java CLI =========
 Paste your resume content below (single line):
-Highly skilled Java developer with experience in Spring Boot, Docker, and RESTful APIs
+Highly skilled Java developer with experience in Spring Boot, Docker, and RESTful APIs.
 
 Paste the job description below (single line):
-We are looking for an experienced Java developer with expertise in Spring Boot, Docker, and RESTful APIs
+We are looking for an experienced Java developer with expertise in Spring Boot, Docker, and RESTful APIs.
 
 =================== RESULTS ===================
 ? Resume Skills: [Java, Rest, Docker, Spring Boot]
