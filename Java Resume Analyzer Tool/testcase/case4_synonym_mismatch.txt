@@ -1,0 +1,5 @@
+Resume: J
+java developer familiar with microservices architecture, containerization, CI/CD pipelines, and cloud deployments.
+
+Job Description: 
+Hiring for a Java backend engineer with skills in Java, Docker, Jenkins, Kubernetes, and AWS.
